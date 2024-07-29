@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Ngo Application</string>
+    <string name="text1">Food Donation</string>
+    <string name="text2">Cloth Donation</string>
+    <string name="text3">Volunteer</string>
+    <string name="text4">Now, its easy to donate food, just one
+step away from food waste</string>
+    <string name="skipStringText">Skip</string>
+    <string name="nextStringText">Next</string>
+    <string name="text5">“Giving is not just about
+Make a Donation, Its about making a difference”</string>
+    <string name="text6">“Alone we can do so little;
+together we can do so much”</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="cnfrmPswrd">Confirm Password</string>
+    <string name="mail">Email</string>
+    <string name="login">Login</string>
+    <string name="frgtPass">Forgot password?</string>
+    <string name="sgnUp">Sign Up</string>
+    <string name="dntAcc">Don’t have an acount?</string>
+    <string name="alrAcc">Already have an acount?</string>
+    <string name="crtAcc">Create Your Account</string>
+    <string name="hlp">Help is our\nmain goal</string>
+    <string name="dnte">Donate Now</string>
+    <string name="bcm">Become a volunteer</string>
+    <string name="hllo">Hello!</string>
+    <string name="caus">Causes</string>
+    <string name="fd">Food</string>
+    <string name="bks">Book</string>
+    <string name="clth">Cloth</string>
+    <string name="mny">Money</string>
+    <string name="gtIn">Get involved</string>
+    <string name="cmp">Campaign, Volunteer,\nDonate, Become a Member</string>
+    <string name="dtl">Details</string>
+    <string name="fdit">Food items</string>
+    <string name="fddRec">Paneer Tikka, Brinjal Curry, etc....</string>
+    <string name="kg">1 KG</string>
+    <string name="ptime">06:09</string>
+    <string name="pdate">02/06/2023</string>
+    <string name="pLoc">Sandhurst Road</string>
+    <string name="Quty">Quantity of Food</string>
+    <string name="pkTime">Pickup Time</string>
+    <string name="pkDate">Pickup Date</string>
+    <string name="pkLoc">Pickup Location</string>
+    <string name="srvs">Serves People</string>
+    <string name="donate">Donate</string>
+    <string name="dnteMoney">You can donate Money</string>
+    <string name="bkCat">Category of the Book</string>
+    <string name="bkCatN">Law, Sciences, etc…</string>
+    <string name="bkName">Name of the Book</string>
+    <string name="bkNameN">Let us C, Physics Master, etc…</string>
+    <string name="clths">Clothes For</string>
+    <string name="sze">Size</string>
+    <string name="szeX">XL</string>
+    <string name="szess">S, M, L,…</string>
+    <string name="szeL">L</string>
+    <string name="szeM">M</string>
+    <string name="szeS">S</string>
+    <string name="unt">Units</string>
+    <string name="tap">Tap Here</string>
+    <string name="gen">Male, Female</string>
+    <string name="nme">Enter Your name</string>
+    <string name="cntct">Enter Your Contact Number</string>
+    <string name="mail1">Enter Your email</string>
+    <string name="cty">Enter Your City</string>
+    <string name="pin">Enter Your Pin code</string>
+    <string name="sbmt">Submit</string>
+    <string name="volTh">Thank you for Volunteering\n with us:)</string>
+    <string name="hme">Homescreen</string>
+    <string name="tppH">tap here to go back to homescreen</string>
+    <string name="entrMny">Enter amount</string>
+    <string name="mnyy">69$, 169$, 269$, 369$</string>
+    <string name="add">Add Message</string>
+    <string name="hi">Hi</string>
+    <string name="dntation">You’re More Than Kind\nThanks for your donation\nWe Appreciate your generosity</string>
+    <string name="feed">Give Feedback</string>
+    <string name="feedB">Do you have any thoughts you’d like to share?</string>
+    <string name="snd">Send</string>
+    <string name="made">Made by Priya &amp; Zishan</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_donor">DonorAct</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

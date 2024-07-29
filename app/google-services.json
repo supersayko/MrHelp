@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935279299613",
+    "project_id": "mrhelp-39c8f",
+    "storage_bucket": "mrhelp-39c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935279299613:android:45fa701aa3b3d25fb40af4",
+        "android_client_info": {
+          "package_name": "com.example.ngoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5yl6gf5fXzK2yAPhLkYmCfK_DR10Miw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
