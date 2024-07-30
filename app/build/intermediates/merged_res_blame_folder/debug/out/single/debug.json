@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_clothicon.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/clothicon.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_welcome.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/welcome.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_btn_bg.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_charity1.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/charity1.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_content_donor.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/content_donor.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_bookicon.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/bookicon.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_fooddonation.jpg.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/fooddonation.jpg"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_btn_bg1.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/btn_bg1.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_profile.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_profile.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_charityicon.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/charityicon.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_hello1.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/hello1.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_mail_focused.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_mail_focused.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_fragment_first.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_mail_outline_24.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_mail_outline_24.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_data_view.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/data_view.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_profile_focused.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_profile_focused.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_custom_lock_icon.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/custom_lock_icon.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/raw_splash.json.flat",
+        "source": "com.example.ngoapplication.app-main-47:/raw/splash.json"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_foodicon.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/foodicon.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_custom_profile_icon.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/custom_profile_icon.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_login_page.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_volunteer_registeration.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_volunteer_registeration.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_second_page.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_second_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/font_robotoromanregular.ttf.flat",
+        "source": "com.example.ngoapplication.app-main-47:/font/robotoromanregular.ttf"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/font_robotoromanbold.ttf.flat",
+        "source": "com.example.ngoapplication.app-main-47:/font/robotoromanbold.ttf"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_thankyouicon1.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/thankyouicon1.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_donor.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_donor.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_spash_screen.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_spash_screen.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_thanksnew.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/thanksnew.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_volunteernew.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/volunteernew.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_third_page.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_third_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_lock.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_lock.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_mrhelpp.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/mrhelpp.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_dash1.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/dash1.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_food.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_food.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_book.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_book.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_new.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_new.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_piggy.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/piggy.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_fragment_second.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_custom_email_icon.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/custom_email_icon.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/font_robotoromanmedium.ttf.flat",
+        "source": "com.example.ngoapplication.app-main-47:/font/robotoromanmedium.ttf"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_sign_up_page.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_sign_up_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_profileimage.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/profileimage.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_custom_input.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_money.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_money.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/navigation_nav_graph.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_bg_clr.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/bg_clr.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_baseline_lock_focused.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/baseline_lock_focused.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_volunteerandroid.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/volunteerandroid.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_dash2.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/dash2.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_feedback.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_coinicon.png.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/coinicon.png"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_thanks_volunteer.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_thanks_volunteer.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_cloth.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_cloth.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_fragment_food.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_food.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ngoapplication.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_donator_list.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_donator_list.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/drawable_dash.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/drawable/dash.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/layout_activity_thanks.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_thanks.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ngoapplication.app-main-47:/xml/data_extraction_rules.xml"
+    }
+]

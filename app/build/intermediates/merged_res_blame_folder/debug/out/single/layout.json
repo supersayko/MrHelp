@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/fragment_first.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_login_page.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_new.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_new.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/data_view.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/data_view.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_dashboard.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_spash_screen.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_spash_screen.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_book.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_book.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_thanks.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_thanks.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/fragment_second.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_money.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_money.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_volunteer_registeration.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_volunteer_registeration.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/content_donor.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/content_donor.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/fragment_food.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/fragment_food.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_donator_list.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_donator_list.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_feedback.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_donor.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_donor.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_cloth.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_cloth.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_food.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_food.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_thanks_volunteer.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_thanks_volunteer.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_second_page.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_second_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_sign_up_page.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_sign_up_page.xml"
+    },
+    {
+        "merged": "com.example.ngoapplication.app-mergeDebugResources-44:/layout/activity_third_page.xml",
+        "source": "com.example.ngoapplication.app-main-47:/layout/activity_third_page.xml"
+    }
+]
